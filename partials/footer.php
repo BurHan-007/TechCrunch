@@ -10,8 +10,18 @@
         <article>
             <h4>Categotries</h4>
             <ul>
-                <li><a href="">Technology</a></li>
-                <li><a href="">Science</a></li>
+                <li><a href="">Artificial intelligence</a></li>
+                <li><a href="">Machine Learning</a></li>
+                <li><a href="">Neural Networks</a></li>
+                <li><a href="">Blockchain</a></li>
+                <li><a href="">Cryptocurrency</a></li>
+                <li><a href="">Cybersecurity</a></li>
+                <li><a href="">Cloud Computing</a></li>
+                <li><a href="">Internet of Things(IoT)</a></li>
+                <li><a href="">5G and Connectivity</a></li>
+                <li><a href="">AR and VR</a></li>
+                <li><a href="">Quantum Computing</a></li>
+                <li><a href="">Robotics and Automation</a></li>
             </ul>
         </article>
 
